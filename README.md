@@ -11,3 +11,7 @@ A replica of GPT-1 model by OpenAI trained using PyTorch. It is a decoder-only t
 [model.pt](model/model.pt): Trained GPT Model 
 
 [output.txt](output.txt): Model output in txt format
+
+**Credits**
+
+Andrej Karpathy's NanoGPT: [NanoGPT](https://github.com/karpathy/nanoGPT)

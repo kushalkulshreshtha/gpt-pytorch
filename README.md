@@ -2,7 +2,7 @@ A replica of GPT-1 model by OpenAI trained using PyTorch. It is a decoder-only t
 
 **Files**
 
-[data/input.txt](input.txt): Input text data 
+[input.txt](data/input.txt): Input text data 
 
 [requirements.txt](requirements.txt): Envoronment setup
 

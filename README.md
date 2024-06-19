@@ -15,3 +15,7 @@ A replica of GPT-1 model by OpenAI trained using PyTorch. It is a decoder-only t
 **Credits**
 
 Andrej Karpathy's NanoGPT: [NanoGPT](https://github.com/karpathy/nanoGPT)
+
+**Colab Notebook**
+
+https://colab.research.google.com/drive/1O4K0hwt5TUg0jiU-i0GH0NV5G-MNEh1k?usp=sharing

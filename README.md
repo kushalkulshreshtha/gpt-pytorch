@@ -6,6 +6,6 @@ data/input.txt: Input text data
 
 requirements.txt: Envoronment setup
 
-train.py[https://github.com/kushalkulshreshtha/gpt-pytorch/blob/main/train.py]: Code containing the training loop
+[train.py](train.py): Code containing the training loop
 
 model/model.pt: Trained GPT Model 

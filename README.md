@@ -21,4 +21,5 @@ Andrej Karpathy's NanoGPT: [NanoGPT](https://github.com/karpathy/nanoGPT)
 **Colab Notebook**
 
 Vanilla Pytorch: https://colab.research.google.com/drive/1O4K0hwt5TUg0jiU-i0GH0NV5G-MNEh1k?usp=sharing
-Pytorch + Lighning: https://colab.research.google.com/drive/1gApQGXmqdJ7oiZmRYfxzIMmMOyK0xcOL?usp=sharing
+
+Pytorch + Lighning (trained only for 1000 iterations, so output is not so good): https://colab.research.google.com/drive/1gApQGXmqdJ7oiZmRYfxzIMmMOyK0xcOL?usp=sharing

@@ -6,7 +6,9 @@ A replica of GPT-1 model by OpenAI trained using PyTorch. It is a decoder-only t
 
 [requirements.txt](requirements.txt): Envoronment setup
 
-[train.py](train.py): Code containing the training loop
+[train.py](train.py): Code containing the training loop in PyTorch
+
+[train_lighning.py](train_lighning.py): Traning loop in Lightning
 
 [model.pt](model/model.pt): Trained GPT Model 
 
@@ -18,4 +20,5 @@ Andrej Karpathy's NanoGPT: [NanoGPT](https://github.com/karpathy/nanoGPT)
 
 **Colab Notebook**
 
-https://colab.research.google.com/drive/1O4K0hwt5TUg0jiU-i0GH0NV5G-MNEh1k?usp=sharing
+Vanilla Pytorch: https://colab.research.google.com/drive/1O4K0hwt5TUg0jiU-i0GH0NV5G-MNEh1k?usp=sharing
+Pytorch + Lighning: https://colab.research.google.com/drive/1gApQGXmqdJ7oiZmRYfxzIMmMOyK0xcOL?usp=sharing
